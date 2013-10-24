@@ -1,0 +1,17 @@
+{
+  "name": "rui-styles",
+  "version": "0.1.1",
+  "homepage": "https://github.com/RallySoftware/bower-rui-styles",
+  "authors": [
+    "Rally Software Development"
+  ],
+  "description": "This is an implementation of the Rally style guide CSS and font definitions.",
+  "license": "MIT",
+  "private": true,
+  "main": "build/*",
+  "ignore": [
+    ".*",
+    "bower_components",
+    "*.md"
+  ]
+}
